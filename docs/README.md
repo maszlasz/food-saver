@@ -1,5 +1,4 @@
 ## FoodSaver
-<img src="./example_screen.png" style="float: right; margin-left: 15px;" width=30% height=30%>
 
 A Kotlin + Jetpack Compose Android application meant to help me remember food
 that's about to go bad.  
@@ -34,4 +33,6 @@ The entries can be removed by swiping them away, edited by tapping and holding, 
 sorted by name and time left to expiry.
 
 
-<a href="https://www.flaticon.com/free-icons/food-safety" title="food safety icons">Food safety icons created by Defamiravi Studio - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/food-safety" title="food safety icons">Food safety icons created by Defamiravi Studio - Flaticon</a>  
+
+<img src="./example_screen.png" width=30% height=30%>
