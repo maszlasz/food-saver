@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FoodSaver" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#C85A12</item>
+        <item name="android:windowSplashScreenBackground">#C85A12</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#C85A12</item>
+    </style>
+
+</resources>
+

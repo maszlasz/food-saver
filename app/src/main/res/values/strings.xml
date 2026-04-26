@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FoodSaver</string>
+    <string name="notification_channel_expiries">Terminy ważności</string>
+    <string name="notification_title">FoodSaver - termin ważności mija</string>
+    <string name="notification_expiring_today">%1$s traci ważność dzisiaj.</string>
+    <string name="notification_expiring_tomorrow">%1$s traci ważność jutro.</string>
+    <string name="notification_expiring_in_days">%1$s traci ważność za %2$d dni.</string>
+    <string name="undo_entry_removal">Cofnij usunięcie wpisu</string>
+    <string name="stop_listening">Zatrzymaj słuchanie</string>
+    <string name="start_listening">Zacznij słuchanie</string>
+    <string name="search_placeholder">Szukaj…</string>
+    <string name="clear_search">Wyczyść wyszukiwanie</string>
+    <string name="sort_alphabetically">Sortuj alfabetycznie</string>
+    <string name="sort_by_date">Sortuj według daty</string>
+    <string name="sort_mode_alpha">A-Z</string>
+    <string name="sort_mode_date">Czas</string>
+    <string name="edit_entry">Edytuj wpis</string>
+    <string name="food_name">Nazwa produktu</string>
+    <string name="expiration_date">Data ważności</string>
+    <string name="day">Dzień</string>
+    <string name="month">Miesiąc</string>
+    <string name="year">Rok</string>
+    <string name="expiration_prefix">Data ważności: %1$s</string>
+    <string name="speech_model_required">Wymagany model rozpoznawania mowy</string>
+    <string name="speech_model_download_message">Model rozpoznawania mowy musi zostać pobrany jednorazowo (~650MB po rozpakowaniu).</string>
+    <string name="error_with_message">Błąd: %1$s</string>
+    <string name="downloading_model">Pobieranie modelu… %1$d%%</string>
+    <string name="extracting_model">Rozpakowywanie modelu…</string>
+    <string name="retry">Ponów próbę</string>
+    <string name="download">Pobierz</string>
+    <string name="unknown_error">Nieznany błąd</string>
+    <string name="incomplete_phrase">Niekompletne: %1$s</string>
+</resources>
